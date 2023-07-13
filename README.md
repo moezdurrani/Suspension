@@ -1,6 +1,6 @@
 # Suspension
 
-you can view it in 3d [here](https://moezdurrani.github.io/3DModelsWebsite/).
+you can view it in 3D [here](https://moezdurrani.github.io/3DModelsWebsite/).
 
 
 
