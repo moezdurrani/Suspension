@@ -1,7 +1,16 @@
 # Suspension
 
+<p>
+  <a href="https://moezdurrani.github.io/3DModelsWebsite/" target="_blank">
+    <img src="https://img.shields.io/badge/3D-View-blue?style=for-the-badge&logo=github" alt="3D View">
+  </a>
+</p>
+<p>
+  <a href="https://moezdurrani.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=github" alt="Portfolio">
+  </a>
+</p>
 
-<a href="https://moezdurrani.github.io/3DModelsWebsite/" target="_blank"><img src="https://img.shields.io/badge/3D-View-blue?style=for-the-badge&logo=github" alt="3D View"></a>
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/103555283/199820441-097371ca-db9e-4062-88a9-b6b3b3e90f23.gif" width="50%" />
