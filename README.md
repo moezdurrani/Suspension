@@ -2,7 +2,8 @@
 
 you can view it in 3D [here](https://moezdurrani.github.io/3DModelsWebsite/).
 
-<a href="https://moezdurrani.github.io/3DModelsWebsite/" target="_blank"><img src="https://img.shields.io/badge/View-Project-blue?style=for-the-badge&logo=github" alt="3D View"></a>
+<a href="https://moezdurrani.github.io/3DModelsWebsite/" target="_blank"><img src="https://img.shields.io/badge/3D-View-blue?style=for-the-badge&logo=github" alt="3D View"></a>
+
 
 
 
